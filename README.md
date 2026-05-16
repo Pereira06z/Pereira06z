@@ -1,4 +1,4 @@
-#Pereira
+
 
 👨‍🏫 Sobre mim
 

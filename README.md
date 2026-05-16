@@ -28,7 +28,9 @@ ________________________________________________________________________________
 
 
 Fora a minha grande paixão pela tecnologia, sou Corinthiano e amo estar ao redor da minha familia e amigos de comunidade, amigo esses que me inspiram e me ajudam a buscar uma melhor versão todos os dias!
+
 Sou Servo da Obra Jovens Sarados, obra essa que tem me ajudado cada vez mais a buscar a Santidade
+
 Além disso, minha grande paixão é vivenciar diariamente, as 5 pedrinhas da obra Jovens Sarados, sobretudo diante da correria do dia a dia fazer a Lectio Divina!
 
 __________________________________________________________________________________________________________________________________________

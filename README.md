@@ -13,7 +13,9 @@ ________________________________________________________________________________
 
 
 "Nada é perdido do sofrimento, pelo contrário nos traz sempre uma santificação cada vez maior"- Pe Gilberto Maria Defina
+
 "Vale a pena, custe o que custar!"- Mons Jonas 
+
 "Porque para mim o viver é Cristo, e o morrer é ganho" filipenses 1:21
 
 __________________________________________________________________________________________________________________________________________

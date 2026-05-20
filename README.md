@@ -2,7 +2,7 @@
 
 👨‍🏫 Sobre mim
 
-Meu nome Gustavo Pereira do Nascimento, sou uma pessoa comunicativa, dedicada e proativa, com grande interesse pela área de tecnologia e inovação. Tenho facilidade para aprender, trabalhar em equipe e enfrentar novos desafios. Busco constantemente evoluir meus conhecimentos para construir uma carreira sólida na área de TI e contribuir com soluções criativas e eficientes.
+Meu nome Gustavo Pereira do Nascimento, sou uma pessoa comunicativa, dedicada e proativa, com grande interesse pela área de tecnologia e inovação. Tenho  facilidade para aprender, trabalhar em equipe e enfrentar novos desafios. Busco constantemente evoluir meus conhecimentos para construir uma carreira sólida na área de TI e contribuir com soluções criativas e eficientes.
 Sempre fui apaixonado por tecnologia, e sempre tive um apoio muito grande dos meus pais e do meu irmão diante desse senho. 
 Tenho como lema de vida uma frase de um grande amigo do céu, Padre Gilberto Maria Defina: “No mínimo, devemos dar a Deus o máximo.” frase essa, que me impusiona a dar meu melhor em todas as minhas tarefas, sejam elas grandes ou pequenas!
 Atualmente, estou desenvolvendo alguns projetos, que tem me motivado cada vez mais a seguir nessa aréa que tanto amo.

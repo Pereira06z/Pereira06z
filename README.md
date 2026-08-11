@@ -8,7 +8,7 @@
 
 <div align="center">
 
-💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por tecnologia • 🚀 Criando projetos e evoluindo todos os dias
+💻 Desenvolvedor em aprendizado • 👨‍💻 Apaixonado por tecnologia • 🚀 Criando projetos e evoluindo todos os dias
 
 </div>
 

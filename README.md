@@ -1,8 +1,16 @@
-# 👋 Olá, eu sou Gustavo Pereira do Nascimento
+<div align="center">
+
+# 👋 Olá, eu sou Gustavo Pereira 
+
+</div>
+
+---
 
 <div align="center">
 
-💻 Desenvolvedor em aprendizado • Apaixonado por tecnologia • 🚀 Criando projetos e evoluindo todos os dias
+💻 Desenvolvedor em aprendizado • 🎵 Apaixonado por tecnologia • 🚀 Criando projetos e evoluindo todos os dias
+
+</div>
 
 </div>
 👨‍🏫 Sobre mim

@@ -1,6 +1,9 @@
+# 👋 Olá, eu sou Gustavo Pereira do Nascimento
 
-👋 Olá, eu sou Gustavo Pereira do Nascimento 
+<div align="center">
+
 💻 Desenvolvedor em aprendizado • 
+</div>
 👨‍🏫 Sobre mim
 
 Meu nome Gustavo Pereira do Nascimento, sou uma pessoa comunicativa, dedicada e proativa, com grande interesse pela área de tecnologia e inovação. Tenho grande facilidade para aprender, trabalhar em equipe e enfrentar novos desafios. Busco constantemente evoluir meus conhecimentos para construir uma carreira sólida na área de TI e contribuir com soluções criativas e eficientes.

@@ -37,7 +37,7 @@ Linguagens e tecnologias que utilizo no desenvolvimento das minhas aplicações:
 - **Interfaces Web:** Estruturação e estilização de páginas responsivas utilizando **HTML5** e **CSS3**.
 - **Projetos Acadêmicos e Pessoais:** Repositórios que documentam minha evolução técnica no SENAI e meus estudos contínuos em desenvolvimento de sistemas.
 
-*(Confira meus repositórios fixados logo abaixo para explorar o código-fonte dos meus projetos recentes.)*
+
 
 ---
 
